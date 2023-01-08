@@ -11,7 +11,7 @@ Variables         ${CURDIR}/../../Test_Data/User_Access_Variables.py
 
 Create multiple PETS with POST Request and validate the response code and response body
     [Documentation]    Create multiple pets with POST Request and validate the response code and response body
-    ...                Creator :: Mamta Jain (mjain@prosoft-technology.com)
+    ...                
     [Tags]  PET_POST_API
 
     OPEN EXCEL DOCUMENTS    ${USER_AND_PET_EXCEL_NAME}          # open the execel sheet with user access name
@@ -35,7 +35,7 @@ Create multiple PETS with POST Request and validate the response code and respon
 
 Update multiple PETS with POST Request and validate the response code and response body
     [Documentation]    Update multiple pets with POST Request and validate the response code and response body
-    ...                Creator :: Mamta Jain (mjain@prosoft-technology.com)
+    ...                
     [Tags]  PET_PUT_API
 
     OPEN EXCEL DOCUMENTS    ${USER_AND_PET_EXCEL_NAME}          # open the execel sheet with user access name
