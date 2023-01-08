@@ -3,8 +3,6 @@
 ##
 ## File    :: User_Access_Variables.robot
 ##
-## Creator :: Mamta Jain (mjain@prosoft-technology.com)
-##
 ## Usage   ::  Test Data to be used in the API Test Cases
 ## ------------------------------------------------------------------------------
 Authorization =  ["petstore.swagger.io"]
