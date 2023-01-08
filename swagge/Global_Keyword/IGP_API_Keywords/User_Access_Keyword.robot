@@ -3,8 +3,6 @@
 ##
 ## File :: User_Access_Keyword.robot
 ##
-## Creator :: Subhash Deshwal (sdeshwal@prosoft-technology.com)
-##
 ## Usage ::  These keywords used in the API Test Cases
 ########################################################################################################
 *** Settings ***
